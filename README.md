@@ -2,7 +2,7 @@
 
 Meu nome é Alysson Sousa
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartihamento dos meus projetos desenvolvidos
   
@@ -13,4 +13,4 @@ sousaalysson34@gmail.com
 @AlyssonSousa
 
 
-https://media1.tenor.com/m/AvM-YrefikIAAAAC/the-last-air-bender-azula.gif
+![](https://media1.tenor.com/m/AvM-YrefikIAAAAC/the-last-air-bender-azula.gif)
